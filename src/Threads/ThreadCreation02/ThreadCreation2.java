@@ -1,4 +1,4 @@
-package Thread.ThreadCreation02;
+package Threads.ThreadCreation02;
 
 public class ThreadCreation2 {
 

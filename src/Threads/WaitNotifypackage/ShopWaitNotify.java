@@ -1,4 +1,4 @@
-package Threads.WaitNotify;
+package Threads.WaitNotifypackage;
 public class ShopWaitNotify {
     public static int stock = 0;
     public static void main(String[] args) {

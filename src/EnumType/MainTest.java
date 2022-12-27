@@ -39,5 +39,9 @@ public class MainTest {
         } else if (transactionType==TransactionType.OTHER){
             System.out.println("other transaction");
         }
+        // not: enum yapiya has methodlar
+        System.out.println("Enum Name: "+transactionType.name());
+        System.out.println("Enum Coder Value: "+transactionType.getTransactionCode());
+        System.out.println("Enum Ordinal: "+transactionType.ordinal());
     }
 }
